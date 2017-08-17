@@ -1,6 +1,8 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
+# Author: Jiahui Tang
+
 import ctypes
 import datetime as dt
 import errno
